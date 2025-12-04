@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Introduction to Python",
+    "author": "John Smith",
+    "isbn": "978-0001",
+    "status": "available"
+  },
+  {
+    "title": "Data Structures Basics",
+    "author": "Jane Doe",
+    "isbn": "978-0002",
+    "status": "issued"
+  },
+  {
+    "title": "Operating Systems",
+    "author": "Andrew S.",
+    "isbn": "978-0003",
+    "status": "available"
+  },
+  {
+    "title": "Computer Networks",
+    "author": "Larry Peterson",
+    "isbn": "978-0004",
+    "status": "available"
+  },
+  {
+    "title": "C Programming Language",
+    "author": "Dennis Ritchie",
+    "isbn": "978-0005",
+    "status": "issued"
+  },
+  {
+    "title": "Database Management Systems",
+    "author": "Korth",
+    "isbn": "978-0006",
+    "status": "available"
+  },
+  {
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "isbn": "978-0007",
+    "status": "available"
+  },
+  {
+    "title": "Discrete Mathematics",
+    "author": "Kenneth H. Rosen",
+    "isbn": "978-0008",
+    "status": "issued"
+  }
+]
